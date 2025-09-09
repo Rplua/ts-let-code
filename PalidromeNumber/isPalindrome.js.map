@@ -1,0 +1,1 @@
+{"version":3,"file":"isPalindrome.js","sourceRoot":"","sources":["isPalindrome.ts"],"names":[],"mappings":";;AAAA,SAAS,YAAY,CAAC,CAAS;IAC3B,IAAI,GAAG,GAAW,CAAC,CAAC,QAAQ,EAAE,CAAC;IAC/B,OAAO,GAAG,KAAK,GAAG,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC,OAAO,EAAE,CAAC,IAAI,CAAC,EAAE,CAAC,CAAC;AAEpD,CAAC;AAAA,CAAC"}
